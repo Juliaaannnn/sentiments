@@ -29,9 +29,9 @@ def app():
     tokenizer = ToktokTokenizer()
 
     st.title("Sentiment Analysis")      
-    st.subheader("Ellan V. Flores")
     
-    st.subheader('Do you think technology is making people more socially isolated and disconnected from their communities?')
+    
+    st.subheader('Do you think technology is helping or destroying their communities?')
      
 
      #The following function definitions show the codes need to perform each task
